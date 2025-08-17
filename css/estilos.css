@@ -1,5 +1,7 @@
 @charset "utf-8";
 
 body{
-    background-color: #00F;
+    background-color: #00F;    /* Color de fondo */
+    font-weight: bold;           /* Letra en negrita */
+    color: #f00;               /* Color de la fuente */
 }
