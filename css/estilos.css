@@ -4,4 +4,5 @@ body{
     background-color: #00F;    /* Color de fondo */
     font-weight: bold;           /* Letra en negrita */
     color: #f00;               /* Color de la fuente */
+    font-size: 18px;
 }
